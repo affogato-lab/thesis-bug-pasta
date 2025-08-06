@@ -12,4 +12,4 @@
 |《行为免疫系统对男性厌女倾向的影响及其心理机制研究》|王雯晶|2021.5|
 
 # 致谢
-
+- 感谢zouzekang的[YJYPaper](https://github.com/zouzhekang/YJYpaper)仓库提供的灵感
