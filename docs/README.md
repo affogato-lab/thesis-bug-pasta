@@ -1,3 +1,3 @@
-# Headline
+# Thesis Bug Pasta
 
-> An awesome project.
+> 学术纠错，实事求是
