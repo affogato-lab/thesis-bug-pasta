@@ -1,2 +1,2 @@
-# 论文下载
-[下载地址点击这里](https://www.zhangqiaokeyan.com/academic-journal-cn_geomatics-spatial-information-technology_thesis/02012161261174.html)
+# 论文文件拷贝
+[论文copy已存在repo中](https://github.com/affogato-lab/thesis-bug-pasta/blob/main/_media/%E5%A5%B3%E6%80%A7%E8%A7%86%E8%A7%92%E4%B8%8B%E8%80%83%E8%99%91%E6%81%90%E6%83%A7%E6%84%9F%E7%9A%84%E6%AD%A5%E8%A1%8C%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92%E7%A0%94%E7%A9%B6_%E8%B0%A2%E6%97%B6%E6%99%94.pdf)
