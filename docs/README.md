@@ -1,4 +1,4 @@
-> [!ATTENTIon]
+> [!WARNING]
 > 学术纠错，实事求是
 
 # TODO 
