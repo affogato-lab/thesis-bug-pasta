@@ -7,7 +7,7 @@
 
 # 图4-3 地图要素缺失
 <div align="center">
-    <img src="_assets/whu_map.png"
+    <img src="/assets/whu_map.png"
          width="50%" 
          height="50%">
 </div>

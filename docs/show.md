@@ -14,7 +14,7 @@
 # 图片用法错误
 
 <figure align="center">
-    <img src="_assets/pie_power.png"
+    <img src="/assets/pie_power.png"
          alt=""
          width="50%" 
          height="50%">
