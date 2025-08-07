@@ -6,7 +6,14 @@
 - 2.4.1和2.4.2过于废话
 
 # 图4-3 地图要素缺失
-![](../_assets/whu_map.png)
+<figure align="center">
+    <img src="../_assets/whu_map.png"
+         alt=""
+         width="50%" 
+         height="50%">
+    <figcaption/>原图出自论文正文第35页，pdf版的第44页
+</figure>
+
 1. 缺失比例尺、标题、比例尺等地图关键信息
 2. 地图注释不明，读者只能从上下文判断是武大校园的地图
 

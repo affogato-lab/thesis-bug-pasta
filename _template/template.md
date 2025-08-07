@@ -7,7 +7,13 @@
 - 皇览揆余初度兮，肇锡余以嘉名。
 
 # 纠错1
-
+<figure align="center">
+    <img src="../_assets/figure.png"
+         alt=""
+         width="50%" 
+         height="50%">
+    <figcaption>原图出自论文正文第[]页，pdf版第[]页</figcaption>
+</figure>
 # 纠错2
 
 # 纠错3
