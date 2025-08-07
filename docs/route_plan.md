@@ -10,7 +10,7 @@
     <img src="assets/whu_map.png"
          width="50%" 
          height="50%">
-    
+    <figcaption>原图出自论文正文第35页，pdf版第44页</figcaption>
 </div>
 
 1. 缺失比例尺、标题、比例尺等地图关键信息
