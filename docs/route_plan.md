@@ -7,7 +7,7 @@
 
 # 图4-3 地图要素缺失
 <div align="center">
-    <img src="assets/whu_map.png"
+    <img src="../docs/assets/whu_map.png"
          width="50%" 
          height="50%">
     <figcaption>原图出自论文正文第35页，pdf版第44页</figcaption>
