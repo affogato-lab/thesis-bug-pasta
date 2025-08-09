@@ -13,10 +13,29 @@
   <script>
     window.$docsify = {
       name: '',
-      repo: ''
+      repo: '',
+      loadFooter: 'footer.md',
+      'flexible-alerts': {
+          note: {
+            label: "Hinweis"
+          },
+          tip: {
+            label: "Tipp"
+          },
+          warning: {
+            label: "Warnung"
+          },
+          attention: {
+            label: "Achtung"
+          }
+        },
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- enable alerts -->
+  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+    <!-- use the footer plugin latest version -->
+  <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
 </body>
 </html>
